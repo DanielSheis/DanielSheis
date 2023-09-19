@@ -1,7 +1,7 @@
 # Daniel Miranda
 
 ### Sobre mim:
-- 🏙 Sou de ***Ribeirão das Neves - MG***
+- 🏙 Sou de ***Belo Horizonte - MG***
 - 📚 Sou estudante de ***Web Design*** e procuro aumentar mais ainda o meu conhecimento;
 - 📖 Eu adoro ler sobre varios assuntos, mais um dos meus favoritos e ***filosofia***;
 - 💻 Meu primeiro contato com o mundo da programação foi com meus ***15 anos*** e foi paixão a primeira vista.
