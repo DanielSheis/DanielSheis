@@ -18,7 +18,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-A020F0?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![ ](https://img.shields.io/badge/C-A020F0?style=for-the-badge&logo=C)
-![Java](https://img.shields.io/badge/java-%000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielSheis&theme=transparent&bg_color=000&border_color=A020F0&show_icons=true&icon_color=30A3DC&title_color=A020F0&text_color=FFF)
