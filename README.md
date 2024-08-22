@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 - 🏙 Sou de ***Belo Horizonte - MG***
-- 📚 Sou estudante de ***Web Design*** e procuro aumentar mais ainda o meu conhecimento;
+- 📚 Sou ***Desenvolvedor Back-end Jr*** e procuro aprofundar mais ainda o meu conhecimento;
 - 📖 Eu adoro ler sobre varios assuntos, mais um dos meus favoritos e ***filosofia***;
 - 💻 Meu primeiro contato com o mundo da programação foi com meus ***15 anos*** e foi paixão a primeira vista.
 
