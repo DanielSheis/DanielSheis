@@ -1,10 +1,10 @@
 # Daniel Miranda
 
 ### Sobre mim:
-- 🏙 Sou de ***Belo Horizonte - MG***
-- 📚 Sou ***Desenvolvedor Back-end Jr*** e procuro aprofundar mais ainda o meu conhecimento;
-- 📖 Eu adoro ler sobre varios assuntos, mais um dos meus favoritos e ***filosofia***;
-- 💻 Meu primeiro contato com o mundo da programação foi com meus ***15 anos*** e foi paixão a primeira vista.
+
+-🏙️ Sou Daniel Miranda, Desenvolvedor Back-end Jr de Belo Horizonte - MG, com um grande interesse em expandir minhas habilidades técnicas. Minha jornada na programação começou aos 15 anos, quando percebi que queria transformar minha paixão em carreira.
+-📚 Gosto de explorar diversos tópicos, especialmente filosofia, que me ajuda a pensar de forma crítica e analítica, características essenciais para um bom desenvolvedor.
+-💻 Atualmente, estou me dedicando a aprimorar minhas habilidades em desenvolvimento back-end, criando projetos que me desafiam e me permitem aprender algo novo a cada dia.
 
 ## Conecte-se comigo
 [![DIO](https://img.shields.io/badge/MEU%20PERFIL%20NA%20DIO-A020F0?style=for-the-badge&logo=&logoColor=0E76A8)](https://www.dio.me/users/dm2639532) 
