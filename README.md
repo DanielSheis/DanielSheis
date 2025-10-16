@@ -22,8 +22,7 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielSheis&theme=transparent&bg_color=000&border_color=A020F0&show_icons=true&icon_color=30A3DC&title_color=A020F0&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanielSheis&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSheis&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSheis&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF)
 
 ## Minhas contribuições 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielSheis&repo=dio-lab-open-source&bg_color=000&border_color=A020F0&show_icons=true&icon_color=30A3DC&title_color=A020F0&text_color=FFF)](https://github.com/DanielSheis/dio-lab-open-source)
